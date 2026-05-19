@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
